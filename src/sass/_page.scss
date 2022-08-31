@@ -1,10 +1,13 @@
 .search-form {
 
 background-color: violet;
-height: 50px;
+height: 89px;
 display: flex;
 align-items: center;
 justify-content: center;
+position: fixed;
+width: 100%;
+z-index: 1;
 }
 
 input {
